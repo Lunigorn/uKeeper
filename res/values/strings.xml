@@ -4,7 +4,7 @@
     <string name="app_name">uKeeper</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
-    <string name="title_activity_send_mail">SendMailActivity</string>
+    <string name="title_activity_send_mail">uKeeper</string>
     <string name="clean_page">Clean page</string>
     <string name="full_page">Full page</string>
     <string name="url_hint">Page url</string>
